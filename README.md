@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Saarthi AI - Your Engineering Career Companion
 
 ![Saarthi AI Demo](https://img.shields.io/badge/Saarthi-AI-deepPurple)
